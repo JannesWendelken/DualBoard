@@ -8,7 +8,7 @@ A budget-friendly DIY macroboard based on the ATtiny85.
 
 ## Overview
 
-I came up with the idea for **DualBoard** when I was looking for a small 2-key keyboard for Geometry Dash, but the prices were just way too high. So, I decided to design my own! This project lets you create your very own custom macroboard for a fraction of the cost of pre-built options.
+I came up with the idea for it when I was looking for a small 2-key keyboard for Geometry Dash, but the prices were just way too high. So, I decided to design my own! This project lets you create your very own custom macroboard for a fraction of the cost of pre-built options.
 
 ---
 
@@ -25,10 +25,10 @@ I came up with the idea for **DualBoard** when I was looking for a small 2-key k
 
 Here are some images of the project:
 
-- Finished Product:  
+- PCB:  
   ![Finished Product](https://github.com/JannesWendelken/DualBoard/blob/main/IMG/finished.png)
   
-- Key Layout:  
+- Layout:  
   ![Key Layout](https://github.com/JannesWendelken/DualBoard/blob/main/IMG/layout.png)
   
 - Schematic:  
